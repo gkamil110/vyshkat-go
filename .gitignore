@@ -1,0 +1,7 @@
+# Исполняемые файлы и результаты тестов
+*.exe
+*.test
+*.out
+coverage.html
+/vyshkat
+.DS_Store
